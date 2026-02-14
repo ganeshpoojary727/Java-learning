@@ -10,5 +10,6 @@ public class calc {
            int num2=sc.nextInt();
            int sum=num1+num2;
            System.out.println("Hey"+name+" the result is"+sum);
+           sc.close();
     }
 }
