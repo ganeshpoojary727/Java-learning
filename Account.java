@@ -25,6 +25,8 @@ Deposit $100 into everyone's account (using your method).
 
 Call showInfo() for everyone.*/
 import java.util.Scanner;
+
+import FInal.Account;
 public class Account {
     static String bankName="Java Bank";
     String holdername;
